@@ -1,4 +1,4 @@
-# IMPHNEN Landing Page
+# XOXO Landing Page
 
 Welcome to your IMPHNEN Landing Page project built with Next.js!
 
